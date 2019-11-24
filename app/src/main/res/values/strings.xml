@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ordenarTNumeros</string>
+    <string name="buttonCalcular">Ordenar</string>
+    <string name="editTextNumber1">Numero 1</string>
+    <string name="editTextNumber2">Numero 2</string>
+    <string name="editTextNumber3">Numero 3</string>
+    <string name="editTextNumber4">Numero 4</string>
+    <string name="editTextNumber5">Numero 5</string>
+    <string name="editTextNumber6">Numero 6</string>
+    <string name="editTextNumber7">Numero 7</string>
+    <string name="editTextNumber8">Numero 8</string>
+    <string name="editTextNumber9">Numero 9</string>
+    <string name="editTextNumber10">Numero 10</string>
+    <string name="editTextNumber11">Numero 11</string>
+    <string name="editTextNumber12">Numero 12</string>
+    <string name="editTextNumber13">Numero 13</string>
+    <string name="editTextNumber14">Numero 14</string>
+    <string name="editTextNumber15">Numero 15</string>
+    <string name="editTextNumber16">Numero 16</string>
+    <string name="editTextNumber17">Numero 17</string>
+    <string name="editTextNumber18">Numero 18</string>
+    <string name="editTextNumber19">Numero 19</string>
+    <string name="editTextNumber20">Numero 20</string>
+    <string name="textViewNumerosOrdenados">Debes llenar todos los campos, de lo contrario no podré ordenarlos</string>
+    <string name="mensajedeError">Debes ingresar un número</string>
+
+</resources>
